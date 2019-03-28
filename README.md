@@ -1,4 +1,4 @@
-Follow Django Grils Tutorials to create your own blog website and deploy it on Heroku. 
+Follow Django Grils Tutorials to create your own blog website and deploy it on Heroku.
 
 ## Part 0: basic setup
 
@@ -8,7 +8,7 @@ https://tutorial.djangogirls.org/en/
 
 https://tutorial-extensions.djangogirls.org/en/homework/
 
-## Part 2: secure your website 
+## Part 2: secure your website
 
 https://tutorial-extensions.djangogirls.org/en/authentication_authorization/
 
@@ -16,4 +16,4 @@ https://tutorial-extensions.djangogirls.org/en/authentication_authorization/
 
 https://tutorial-extensions.djangogirls.org/en/homework_create_more_models/
 
-
+X
