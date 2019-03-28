@@ -1,19 +1,13 @@
-Follow Django Grils Tutorials to create your own blog website and deploy it on Heroku.
+Adding functional tests and unit tests for your blog app
 
-## Part 0: basic setup
+Part 1: Using Selenium to Test User Interactions
+follow https://www.obeythetestinggoat.com/book/chapter_philosophy_and_refactoring.html
 
-https://tutorial.djangogirls.org/en/
+test publishing a new blog
+test adding comments
+test deleting comments
 
-## Part 1: add more to your website
+Part 2: Using the Django Test Client for Unit Tests
+follow https://www.obeythetestinggoat.com/book/chapter_unit_test_first_view.html
 
-https://tutorial-extensions.djangogirls.org/en/homework/
-
-## Part 2: secure your website
-
-https://tutorial-extensions.djangogirls.org/en/authentication_authorization/
-
-## Part 3: create comment model
-
-https://tutorial-extensions.djangogirls.org/en/homework_create_more_models/
-
-X
+adding unit tests to get at least 90% test coverage
